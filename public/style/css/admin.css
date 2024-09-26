@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 88%;
+    margin: auto;
+}
+.table_content{
+    margin: 14px auto;
+}
+/***** category *****/
+.category{
+    padding: 40px 0px;
+}
+
+.padding_nav .container form .form-group #formOfImage input {
+    margin: 12px 0px !important;
+}
+.padding_nav .container form .form-group .addImage {
+    margin: 8px auto 2px;
+    color: #00000f;
+    cursor: pointer;
+}
